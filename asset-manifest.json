@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TextUtils-wordplay/static/css/main.823570f4.css",
+    "main.js": "/TextUtils-wordplay/static/js/main.eedf6002.js",
+    "static/js/787.b21b4e9d.chunk.js": "/TextUtils-wordplay/static/js/787.b21b4e9d.chunk.js",
+    "index.html": "/TextUtils-wordplay/index.html",
+    "main.823570f4.css.map": "/TextUtils-wordplay/static/css/main.823570f4.css.map",
+    "main.eedf6002.js.map": "/TextUtils-wordplay/static/js/main.eedf6002.js.map",
+    "787.b21b4e9d.chunk.js.map": "/TextUtils-wordplay/static/js/787.b21b4e9d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.823570f4.css",
+    "static/js/main.eedf6002.js"
+  ]
+}
